@@ -1,0 +1,6 @@
+.hero {
+    height: 100dvh;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
